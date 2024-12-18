@@ -10,7 +10,7 @@ Principais Comandos
 
 
 
-Alteracao teste
+
 
 
 
@@ -34,14 +34,40 @@ git push origin main
 
 
 
-
-
-
-
-
-
-
-
-
-
 =========================================
+Projetos
+
+Gerenciamento de projetos, por meio de issues (tarefas)
+estilo kanban entre os colaboradores
+=========================================
+Copilot
+
+Uma IA que ajuda o desenvolvimento de codigos.
+
+Paga, porem se tiver o Student Pack fica gratuito.
+=========================================
+Codespace
+
+Ambiente de Desenvolvimento na Nuvem.
+
+60 Horas por Mes (gratuito).
+
+O codespace tem o visual muito parecido com o vs code.
+=========================================
+Github.DEV
+
+Editor, parecido com o Codespace porem sem as funcionalidades
+de computacao em nuvem. sendo apenas um editor estilo vscode 
+para ser utilizado na web.
+=========================================
+Organizacao
+
+Nos permite a criar equipes(Times) de colaboradores
+
+• Permissoes (Assim como as permissoes de grupos dos SOs).
+
+
+
+
+
+
