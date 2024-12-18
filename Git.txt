@@ -1,0 +1,47 @@
+Git e Github
+=====================================
+
+Git - Software (Repositorio Local)
+Github - (Repositorio Externo)
+
+======================================
+Principais Comandos
+
+
+
+
+
+
+
+
+
+
+=======================================
+#Autenticacoes
+
+•Usuario e Senha (Nao eh mais seguro)
+•Tokens
+•SSH
+•Chaves de Implementacao
+•Autenticacao de 2 Fatores 2FA
+•SSO do SAML (Gerenciamento das permissoes)
+
+=======================================
+Git Add .
+git commit -m ""
+git push origin main 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=========================================
